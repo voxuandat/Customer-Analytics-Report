@@ -1,13 +1,13 @@
 ### **Objective**: 
-Analyze SEO performance and marketing campaign effectiveness for Uniace over a 3- week period.
+Develop customer segmentation models by using RFM models & BCG Matrix for the targetted marketing campaign
 
 ### **Technical Skills**: 
-SQL, PowerBI, SEO Metrics
+SQL, PowerBI, statistical methods, RFM models, Customer 360, BCG Matrix
 
 ### **Description**:
--	Data processing and transforming by SQL.
--	Used DAX on PowerBI to calculate SEO Metrics: click to rate, conversion rate, unique click,…for assessing website visibility and search engine ranking.
--	Developed interactive Power BI dashboards to visualize key findings and provide actionable insights.
-
+-	Calculated RFM scores (Recency, Frequency, Monetary) based on customers’ membership data and transactions data
+-	Based on IQR (Inter Quartile Range) & data concatenation, segmented customers into groups: Champions, Loyal Customers, New Customer,…
+-	Used PowerBI to build dashboards, analyze customers’ behavior and payments analytics
+-	
 ### **Value**: 
-Delivered data-driven recommendations to improve SEO performance and marketing campaign effectiveness
+Based on develped customer segmentation models, provided insightful recommendations to departments for each segment, in enhancing customer care and decreasing customer turnover
